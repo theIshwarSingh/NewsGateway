@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsGateway</string>
+    <string name="dopen">Navigation Drawer Open </string>
+    <string name="dclose">Navigation Drawer Close</string>
+</resources>
